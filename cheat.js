@@ -2,7 +2,7 @@
 // @name        Slither.io Hack by Phytone
 // @namespace   http://slither.com/io
 // @description Slither.io Hack by Phytone
-// @include     http://slither.com/io
+// @match    http://slither.com/io
 // @version     1.0.0
 // @grant       none
 // ==/UserScript==
