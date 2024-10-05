@@ -1,6 +1,6 @@
 # Cheats for Slither.io
 
-To use on TamperMonkey use
+To use on TamperMonkey use you can also copy the Javascript file and just paste it in the console
 
 ```sh
 http://slither.com/io
