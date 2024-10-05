@@ -8,3 +8,4 @@ http://slither.com/io
 # Known Bugs
 
 The Length Cheat currently does not work :(
+Leaderboard Visibility does not toggle after death :(
