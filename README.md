@@ -1,7 +1,9 @@
 # Cheats for Slither.io
 
+To use on TamperMonkey use
+
 ```sh
-to use on TamperMonkey use http://slither.com/io
+http://slither.com/io
 ```
 # Known Bugs
 
